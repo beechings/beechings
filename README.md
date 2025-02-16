@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beechings! 
-- 👀 I’m interested in contributing non-coding aspects of projects such as content, clarity and readability and documentation.
+- 👀 I’m interested in contributing aspects of projects such as content, clarity and readability and documentation.
 - 🌱 I’m currently learning how this thing works!
 - 📫 How to reach me: reddit u/beechings, discord beechings, twitch whisper @beechings
 - 😄 Pronouns: she/her
